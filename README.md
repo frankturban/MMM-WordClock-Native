@@ -2,6 +2,13 @@
 
 Lokales, natives WordClock-Modul für MagicMirror.
 
+## Lizenz
+
+Der Modulcode steht unter der MIT License.
+
+Der mitgelieferte Font Barlow Semi Condensed steht unter der SIL Open Font License 1.1.
+Siehe `fonts/OFL-Barlow.txt`.
+
 ## Eigenschaften
 
 - vollständig lokal
