@@ -1,5 +1,7 @@
 # MMM-WordClock-Native
 
+![MMM-WordClock-Native Screenshot](screenshots/MMM-WordClock-Native.png)
+
 Lokales, natives WordClock-Modul für MagicMirror.
 
 ## Lizenz
@@ -18,7 +20,7 @@ Siehe `fonts/OFL-Barlow.txt`.
 - keine npm-Abhängigkeiten
 - deutsche Wortuhr mit 10 x 11 Buchstabenmatrix
 - vier Minutenpunkte
-- Sonderfall "EIN UHR" bei 01:00 und 13:00
+- "EIN UHR" bei 01:00 und 13:00
 - freier Font: Barlow Semi Condensed Regular
 
 ## Dateien
@@ -42,3 +44,4 @@ Barlow Semi Condensed Regular
 Lizenz: SIL Open Font License 1.1
 
 Lizenzdatei: fonts/OFL-Barlow.txt
+B
